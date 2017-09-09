@@ -1,3 +1,3 @@
 	## Depth-Map
 
-	# creating a depth map for a given single rgb image.
+	# creating a Depth-Map from Image Classification.
