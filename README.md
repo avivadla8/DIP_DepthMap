@@ -1,3 +1,3 @@
-	## Depth-Map
+#                    Depth-Map
 
-	# creating a Depth-Map from Image Classification.
+### creating a Depth-Map from Image Classification.
